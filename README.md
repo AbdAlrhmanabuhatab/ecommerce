@@ -6,6 +6,8 @@
 [![Architecture](https://img.shields.io/badge/Architecture-Feature--First%20Clean%20Architecture-blueviolet)](#architecture--structure)
 
 An enterprise-ready, modular, and highly scalable E-Commerce mobile application built with **Flutter**, designed specifically to showcase **Software Engineering Best Practices**, clean architecture principles, and responsive UI/UX design.
+<img width="1672" height="941" alt="عرض تطبيق ويزو للتجارة الإلكترونية" src="https://github.com/user-attachments/assets/68878f80-b99a-40c2-92f1-4261dbd50feb" />
+
 
 ---
 
